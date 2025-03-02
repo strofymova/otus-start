@@ -1,0 +1,20 @@
+{
+  "name": "otus-start",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/strofymova/otus-start#readme",
+  "bugs": {
+    "url": "https://github.com/strofymova/otus-start/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strofymova/otus-start.git"
+  },
+  "license": "ISC",
+  "author": "strofymova",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
